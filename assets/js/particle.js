@@ -10,10 +10,10 @@ particlesJS("particles-js", {
       },
     },
     color: {
-      value: ["#2EB67D", "#ECB22E", "#E01E5B", "#36C5F0"],
+      value: ["#ff8ebc", "#ff8ebc", "#ff8ea9", "#ffdbe9"],
     },
     shape: {
-      type: "circle",
+      type: "star",
       stroke: {
         width: 0,
         color: "#fff",
